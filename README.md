@@ -1,0 +1,1 @@
+This project implements a binary tree data structure with various functionalities. It includes operations such as creating a binary tree node, traversing the tree, searching for a specific element, and more. The project serves as a foundation for understanding and working with binary trees
